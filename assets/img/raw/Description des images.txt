@@ -1,0 +1,5 @@
+img001 : Utilisable
+img002 : Dépôts déformés
+img003 : Trop sombre
+img004 : Bruitées
+img005 : Floue
